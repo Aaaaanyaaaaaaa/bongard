@@ -1,3 +1,3 @@
 ```
-lala
+source /beta/students/rudenko/rudenko/bin/activate
 ```
